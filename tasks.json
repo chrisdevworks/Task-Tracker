@@ -1,0 +1,17 @@
+[
+    {
+        "id": 2,
+        "description": "Write documentation",
+        "status": "not done"
+    },
+    {
+        "id": 3,
+        "description": "Complete PHP project",
+        "status": "not done"
+    },
+    {
+        "id": 4,
+        "description": "Buy groceries",
+        "status": "todo"
+    }
+]
